@@ -63,5 +63,5 @@ Once the bot is running, users can interact with it through the Telegram chat in
 
 ## Development and Contributions
 
-This is the initial version of the Telegram Task Count Bot, so there may be room for improvement. If you encounter any issues or have suggestions for new features, please feel free to open an issue or submit a pull request on the project's repository.
+This is the initial version of the Telegram Track Routines Bot, so there may be room for improvement. If you encounter any issues or have suggestions for new features, please feel free to open an issue or submit a pull request on the project's repository.
 Right now bot is using Long polling, in future version it may switch to Webhooks. Also plan to switch to MySQL or PostGreSQL instead of SQLite.
